@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themadgnomeking
-- 👀 I’m interested in a wide range of projects and languages. Presently I'm 
-- 🌱 I’m currently learning python and will expand into other languages as I need.
-- 💞️ I’m looking to collaborate on any project at this point to help better my skills
+- 👀 Presently learning Python, with the goal of being language agnostic. 
+- 🌱 Open to collaborative work
+- 💞️ Always learning, this is a life long endeavor for me and will only stop when I'm not longer able to.
 - 📫 How to reach me ...
 
 <!---
